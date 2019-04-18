@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='C-Rank',
-      version='01',
+      version='1.0',
       url='https://github.com/maurodlt/C-Rank',
       license='MIT',
       author='Mauro DL Tosi',
