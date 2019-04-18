@@ -39,7 +39,7 @@ crank = cr.CRank(BABELFY_KEY, LIST_OF_INPUT_DOCUMENTS, OUTPUT_DIRECTORY)
 #crank = cr.CRank("3ejklasd-a456-41ae-647f-0a1234546dd3", ['./document1.txt', './document2.txt'], './')
 crank.keyphrasesExtraction()
 
-printKeyphrases()
+crank.printKeyphrases()
 ```
 ## Functionalities
 ```
