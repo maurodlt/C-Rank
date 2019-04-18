@@ -26,7 +26,7 @@ sudo pip install pybabelfy
 
 ## Getting started
 ```
-import CRank as cr
+from crank import CRank as cr
 
 crank = cr.CRank(BABELFY_KEY, LIST_OF_INPUT_DOCUMENTS, OUTPUT_DIRECTORY)
 #Exemple
@@ -74,3 +74,4 @@ self.keyPhrases = []
 ```
 ## Citation
 Available soon
+
