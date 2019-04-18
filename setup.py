@@ -13,7 +13,7 @@ setup(name='C-Rank',
       packages=find_packages(),
       long_description=open('README.md').read(),
       zip_safe=True,
-      download_url='https://github.com/user/maurodlt/C-Rank/archive/v_01.tar.gz',
+      download_url='https://github.com/user/maurodlt/C-Rank/archive/v_02.tar.gz',
       install_requires=[
           'nltk',
           'networkx',
