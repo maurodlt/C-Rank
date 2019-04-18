@@ -3,7 +3,7 @@ import networkx as nx
 import re
 from nltk import word_tokenize, pos_tag
 from pybabelfy.babelfy import *
-from porterStemmer import PorterStemmer
+from CRank.porterStemmer import PorterStemmer
 from math import log
 
 class CRank():
