@@ -24,9 +24,15 @@ pybabelfy: (https://github.com/aghie/pybabelfy)
 sudo pip install pybabelfy
 ```
 
+Then install C-Rank:
+```
+sudo pip install C-Rank
+```
+
+
 ## Getting started
 ```
-from crank import CRank as cr
+import CRank as cr
 
 crank = cr.CRank(BABELFY_KEY, LIST_OF_INPUT_DOCUMENTS, OUTPUT_DIRECTORY)
 #Exemple
