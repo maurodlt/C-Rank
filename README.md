@@ -79,5 +79,7 @@ self.graphs2 = []
 self.keyPhrases = []
 ```
 ## Citation
-Available soon
+Tosi, Mauro Dalle Lucca, and Julio Cesar dos Reis. "C-Rank: A Concept Linking Approach to Unsupervised Keyphrase Extraction." Research Conference on Metadata and Semantics Research. Springer, Cham, 2019.
+
+https://link.springer.com/chapter/10.1007/978-3-030-36599-8_21
 
